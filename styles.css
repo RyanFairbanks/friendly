@@ -3,6 +3,7 @@
 }
 
 .social {
+	white-space: nowrap;
 	width: 50px;
 }
 
